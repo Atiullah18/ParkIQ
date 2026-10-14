@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909998567611",
+    "project_id": "parkiq-e71f3",
+    "storage_bucket": "parkiq-e71f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909998567611:android:14a116af10de3aaf72799e",
+        "android_client_info": {
+          "package_name": "com.example.parkiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWYJ_9Fmxh5orV0RduA8pid5lYiur6d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
